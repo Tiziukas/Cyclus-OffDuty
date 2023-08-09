@@ -1,2 +1,2 @@
 # Cyclus-OffDuty
-Cyclus-OffDuty remade to be with logs.
+Cyclus-OffDuty remade to be with logs to discord.
