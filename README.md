@@ -1,2 +1,1 @@
-# Cyclus-OffDuty
-Cyclus-OffDuty remade to be with logs to discord.
+# Cyclus-OffDuty With Discord webhook integration.
